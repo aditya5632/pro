@@ -1,0 +1,39 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 164.55rem;
+}.vector-4-qjr {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.vector-4-qjr .property-1default-9Ve {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 48.3rem;
+  flex-shrink: 0;
+}
+.vector-4-qjr .property-1variant2-H64 {
+  width: 100%;
+  height: 48.3rem;
+  flex-shrink: 0;
+}

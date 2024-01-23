@@ -1,0 +1,3044 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.home-nRS {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-nRS .auto-group-sncl-zXW {
+  width: 100%;
+  height: 642.969rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba {
+  width: 193.8rem;
+  height: 121.4672rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa {
+  margin-bottom: 5.6875rem;
+  box-sizing: border-box;
+  padding: 5rem 18.083rem 9.313rem 16.3rem;
+  width: 100%;
+  height: 19.5rem;
+  border: solid 0.1rem #ececec;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2537-DBJ {
+  margin: 0.094rem 68rem 0.094rem 0rem;
+  height: calc(100% - 0.1875rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2537-DBJ .subtract-K7r {
+  margin-right: 1rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2537-DBJ .raft-2Y4 {
+  display: flex;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc {
+  margin: 1.544rem 8rem 1.544rem 0rem;
+  height: calc(100% - 3.0875rem);
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .frame-2538-MTr {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .frame-2538-MTr .ellipse-701-iZJ {
+  margin-right: 1rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #b694ff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .frame-2538-MTr .home-q88 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0299999237;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .science-McG {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0299999237;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .platform-VTa {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0299999237;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .about-us-dZn {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0299999237;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2539-Fvc .news-NnG {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0299999237;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2540-vYt {
+  box-sizing: border-box;
+  padding: 1.6rem 2.517rem 1.688rem 2.6rem;
+  width: 14.1172rem;
+  height: 100%;
+  background-color: #b694ff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .frame-2544-NRa .frame-2543-H2k .frame-2541-6np .frame-2540-vYt .span-fFa {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg {
+  margin: 0rem 16.3rem 0rem 18rem;
+  width: calc(100% - 34.3rem);
+  height: 96.2797rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv {
+  box-sizing: border-box;
+  padding: 6.708rem 7.157rem 6.708rem 2.521rem;
+  width: 84.9062rem;
+  height: 79.5797rem;
+  position: absolute;
+  left: 48.0938rem;
+  top: 16.7rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-3.png');
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .ellipse-704-Lm2 {
+  margin: 25.81rem 0.1rem 0rem 0rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background-color: #8753f3;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .ellipse-705-Fsz {
+  margin: 33.53rem 0.936rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-color: #8753f3;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .auto-group-hhbi-BWk {
+  box-sizing: border-box;
+  padding: 2.43rem 10.024rem 25.076rem 27.371rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-2.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .auto-group-hhbi-BWk .ellipse-702-JrG {
+  margin: 0rem 0rem 2.372rem 25.069rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-color: #8753f3;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .auto-group-hhbi-BWk .ellipse-703-dde {
+  margin: 0rem 0rem 16.203rem 31.998rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background-color: #8753f3;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .group-4660-3mv .auto-group-hhbi-BWk .auto-group-eqxe-jRn {
+  margin-right: 15.9196rem;
+  width: 17.2786rem;
+  height: 16.483rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2550-ckU {
+  width: 77.1147rem;
+  height: 44.1875rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  row-gap: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2550-ckU .the-individual-counseling-couples-therapy-expert-XcY {
+  max-width: 77.1147rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2550-ckU .we-leverage-microgravity-to-create-tomorrows-cures-with-our-in-house-developed-space-labs-and-ground-simulators-qNL {
+  max-width: 57.9708rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2550-ckU .frame-2540-Tec {
+  box-sizing: border-box;
+  padding: 2.4rem 3.317rem 2.488rem 3.4rem;
+  width: 21.7172rem;
+  height: 6.7875rem;
+  background-color: #b694ff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2550-ckU .frame-2540-Tec .span-Bac {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt {
+  width: 46.7475rem;
+  height: 6.7119rem;
+  position: absolute;
+  left: 112.7525rem;
+  top: 13.3441rem;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2548-p7n {
+  margin-right: 2.2rem;
+  width: 20.2475rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2548-p7n .ellipse-706-ABe {
+  width: 6.7119rem;
+  height: 6.7119rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-706-bg.png');
+  border-radius: 3.3559rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2548-p7n .ellipse-707-Sex {
+  width: 6.7119rem;
+  height: 6.7119rem;
+  position: absolute;
+  left: 4.5119rem;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-707-bg.png');
+  border-radius: 3.3559rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2548-p7n .ellipse-708-kQk {
+  width: 6.7119rem;
+  height: 6.7119rem;
+  position: absolute;
+  left: 9.0237rem;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-708-bg.png');
+  border-radius: 3.3559rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2548-p7n .frame-2547-4gL {
+  width: 6.7119rem;
+  height: 6.7119rem;
+  position: absolute;
+  left: 13.5356rem;
+  top: 0;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #b694ff;
+  border-radius: 3.3559rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ {
+  margin: 0.0559rem 0;
+  height: calc(100% - 0.1119rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ .our-happy-customers-ePe {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ .frame-2545-9LQ {
+  display: flex;
+  column-gap: 0.4rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ .frame-2545-9LQ .star-7-VfA {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ .frame-2545-9LQ .item-49-F8Y {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2549-5vt .frame-2546-hjJ .frame-2545-9LQ .reviews-mMn {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: #888888;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG {
+  width: 18.1rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 141.4rem;
+  top: 28.2375rem;
+  row-gap: 4.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2551-Chz {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2551-Chz .item-147-xhA {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.1299999952;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2551-Chz .space-labs-launched-by-our-team-VBJ {
+  max-width: 18.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2552-ngC {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2552-ngC .item-50-YQU {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.1299999952;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2552-ngC .customers-on-4-continents-TnL {
+  max-width: 18.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2553-Agk {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2553-Agk .item-138-uuE {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.1299999952;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2554-5tG .frame-2553-Agk .space-biology-publications-dqE {
+  max-width: 18.1rem;
+  text-align: right;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J {
+  width: 38.5574rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 70.6375rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .our-partnership-49r {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY {
+  box-sizing: border-box;
+  padding: 1.949rem 0rem 0rem 0rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.4101rem;
+  align-items: flex-end;
+  border: solid 0.0686rem rgba(0, 0, 0, 0.0500000007);
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY .mitpng-gwv {
+  width: 6.5834rem;
+  height: 2.3509rem;
+  position: relative;
+  background-size: 69.339% 100%;
+  background-image: url('../assets/mitpng.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY .uclapng-PrL {
+  width: 6.5834rem;
+  height: 2.3509rem;
+  position: relative;
+  background-size: 100% 90.172%;
+  background-position: 0 0.1155rem;
+  background-image: url('../assets/uclapng.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY .nuspng-JiQ {
+  width: 6.5834rem;
+  height: 2.3509rem;
+  position: relative;
+  background-size: 53.298% 100%;
+  background-image: url('../assets/nuspng.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY .esapng-2uJ {
+  width: 6.5834rem;
+  height: 2.3509rem;
+  position: relative;
+  background-size: 99.193% 100%;
+  background-position: 0.0265rem 0;
+  background-image: url('../assets/esapng.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2555-81J .div-NAY .charitepng-Mgg {
+  width: 6.5834rem;
+  height: 2.3509rem;
+  position: relative;
+  background-size: 96.513% 100%;
+  background-position: 0.1148rem 0;
+  background-image: url('../assets/charitepng.png');
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4663-5Ba .group-4662-XYg .frame-2608-3pQ {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 86.3125rem;
+  overflow: hidden;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA {
+  width: 146.2299rem;
+  height: 116.9469rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 236.2rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .discover-the-power-of-psychology-and-counseling-with-our-expert-team-uLp {
+  margin-bottom: 7rem;
+  max-width: 98.5259rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY {
+  width: 100%;
+  height: 87.7469rem;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .group-4665-kMS {
+  margin-right: 8.5rem;
+  box-sizing: border-box;
+  padding: 0rem 7.116rem 0rem 7.116rem;
+  height: 100%;
+  background-color: #eee5ff;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .group-4665-kMS .image-122-UoE {
+  width: 58.4979rem;
+  height: 87.7469rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE {
+  margin: 0.83rem 0rem 0.83rem 0rem;
+  width: 65rem;
+  height: calc(100% - 1.6594rem);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN {
+  margin-bottom: 5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC .frame-2564-pVi {
+  width: 35rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC .frame-2564-pVi .item-1-NXE {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC .frame-2564-pVi .frame-2565-J9z {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC .frame-2564-pVi .frame-2565-J9z .jessica-johnson-4Q4 {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2566-GUC .frame-2564-pVi .frame-2565-J9z .family-therapy-nax {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 16.7rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .item-2-Bd6 {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #b694ff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .frame-2568-W9a {
+  width: 57.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .frame-2568-W9a .frame-2565-4gt {
+  margin: 0rem 20.4rem 1rem 0rem;
+  width: calc(100% - 20.4rem);
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .frame-2568-W9a .frame-2565-4gt .ethan-ramirez-CHJ {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #b694ff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .frame-2568-W9a .frame-2565-4gt .family-therapy-79N {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2567-Uig .frame-2564-pnY .frame-2568-W9a .itaque-earum-rerum-hic-tenetur-a-sapiente-delectus-ut-aut-reiciendis-voluptatibus-maiores-alias-consequatur-aut-perferendis-doloribus-asperiores-repellat-2XE {
+  max-width: 57.9rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 .frame-2564-R3a {
+  width: 32.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 .frame-2564-R3a .item-3-mNL {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 .frame-2564-R3a .frame-2565-hWt {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 .frame-2564-R3a .frame-2565-hWt .olivia-lee-G4C {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2568-s24 .frame-2564-R3a .frame-2565-hWt .depression-problem-Bwr {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr .frame-2564-Sct {
+  width: 30rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr .frame-2564-Sct .item-4-bkg {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr .frame-2564-Sct .frame-2565-XuE {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr .frame-2564-Sct .frame-2565-XuE .ryan-patel-uFa {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2569-VBr .frame-2564-Sct .frame-2565-XuE .family-therapy-cvg {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 .frame-2564-sLp {
+  width: 34.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 .frame-2564-sLp .item-5-2Uc {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 .frame-2564-sLp .frame-2565-MFz {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 .frame-2564-sLp .frame-2565-MFz .maya-davis-uoJ {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2570-Kq6 .frame-2564-sLp .frame-2565-MFz .depression-problem-SYL {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN .frame-2564-6sn {
+  width: 31.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN .frame-2564-6sn .item-6-Rv4 {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN .frame-2564-6sn .frame-2565-MYp {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN .frame-2564-6sn .frame-2565-MYp .tyler-nguyen-WwW {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2571-YbN .frame-2564-6sn .frame-2565-MYp .family-therapy-eXv {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL {
+  box-sizing: border-box;
+  padding: 3rem 0;
+  width: 100%;
+  height: 9.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL .frame-2564-GpC {
+  width: 36.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL .frame-2564-GpC .item-7-22g {
+  margin-right: 6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL .frame-2564-GpC .frame-2565-xBE {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL .frame-2564-GpC .frame-2565-xBE .jordan-green-KGg {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2573-jDN .frame-2572-vkL .frame-2564-GpC .frame-2565-xBE .depression-problem-SMJ {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2540-YQL {
+  box-sizing: border-box;
+  padding: 2.4rem 3.317rem 2.488rem 3.4rem;
+  width: 15.9172rem;
+  height: 6.7875rem;
+  background-color: #b694ff;
+  border-radius: 5rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2576-yTA .frame-2575-bUY .frame-2574-CjE .frame-2540-YQL .span-4da {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U {
+  width: 159.2334rem;
+  height: 139.9128rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 353.114rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .causes-of-various-anxieties-that-hinder-you-from-living-your-best-life-Vit {
+  width: 98.5259rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU {
+  width: 152.8737rem;
+  height: 132.2333rem;
+  position: absolute;
+  left: 5.3597rem;
+  top: 6.6796rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig {
+  box-sizing: border-box;
+  padding: 29.948rem 15.052rem 8.421rem 29.516rem;
+  width: 131.0364rem;
+  height: 131.0364rem;
+  position: absolute;
+  left: 8.9221rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #b694ff;
+  border-radius: 65.5182rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .auto-group-uujt-bvL {
+  margin: 0rem 14.896rem 11.902rem 0rem;
+  width: 71.5725rem;
+  height: 74.3724rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .auto-group-uujt-bvL .group-4666-vhi {
+  width: 71.1405rem;
+  height: 71.1405rem;
+  position: absolute;
+  left: 0.4321rem;
+  top: 0;
+  background-color: #eee5ff;
+  border-radius: 35.5702rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .auto-group-uujt-bvL .group-4666-vhi .mask-group-54p {
+  width: 71.1405rem;
+  height: 71.1405rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .auto-group-uujt-bvL .bipolar-disorder-bor {
+  width: 36.0023rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 0;
+  top: 59.9724rem;
+  display: flex;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.1299999952;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .group-4671-WR2 {
+  margin-left: 74.7745rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .group-4671-WR2 .pseudo-4SY {
+  margin-bottom: 0.6rem;
+  width: 2.1938rem;
+  height: 2.1938rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4667-6ig .group-4671-WR2 .burnout-o9E {
+  margin-left: 2.8938rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4668-HaC {
+  width: 14.8938rem;
+  height: 4.5969rem;
+  position: absolute;
+  left: 4.1336rem;
+  top: 28.9479rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4668-HaC .addictions-RRW {
+  margin: 0rem 1rem 0.997rem 0rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4668-HaC .pseudo-w8x {
+  width: 2.1938rem;
+  height: 2.1938rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4669-HCp {
+  width: 14.8938rem;
+  height: 5.6969rem;
+  position: absolute;
+  left: 0;
+  top: 89.6009rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4669-HCp .depression-piY {
+  margin: 2.097rem 0.3rem 0rem 0rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4669-HCp .pseudo-jKi {
+  width: 2.1938rem;
+  height: 2.1938rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4670-sgp {
+  width: 25.754rem;
+  height: 6.7938rem;
+  position: absolute;
+  left: 26.638rem;
+  top: 125.4395rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4670-sgp .pseudo-c8c {
+  margin-bottom: 1rem;
+  width: 2.1938rem;
+  height: 2.1938rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4670-sgp .conflict-management-Ynx {
+  margin-right: 2.154rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4672-UAp {
+  width: 17.3938rem;
+  height: 6.3938rem;
+  position: absolute;
+  left: 135.48rem;
+  top: 43.9294rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4672-UAp .pseudo-oit {
+  margin-bottom: 0.6rem;
+  width: 2.1938rem;
+  height: 2.1938rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4672-UAp .inner-conflict-9nk {
+  margin-left: 2.8938rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4673-UKE {
+  width: 28.4969rem;
+  height: 5.6938rem;
+  position: absolute;
+  left: 113.5033rem;
+  top: 9.1726rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4673-UKE .bipolar-disorder-Qig {
+  width: 26.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 2.0969rem;
+  top: 0;
+  text-align: right;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #8753f3;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .group-4673-UKE .pseudo-hBz {
+  width: 2.1938rem;
+  height: 2.1938rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  background-color: #8753f3;
+  border-radius: 1.097rem;
+}
+.home-nRS .auto-group-sncl-zXW .group-4675-N8U .group-4674-PJU .frame-2540-pnQ {
+  width: 15.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 126.8001rem;
+  top: 88.1946rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt {
+  width: 159.5rem;
+  height: 109.9422rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 508.7rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .our-clients-and-their-positive-experiences-with-our-psychology-consultation-services-t1a {
+  margin-bottom: 7rem;
+  max-width: 109.9497rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS {
+  box-sizing: border-box;
+  padding: 15.025rem 11.9rem 15.017rem 11.9rem;
+  width: 100%;
+  height: 80.7422rem;
+  background-color: #eee5ff;
+  border-radius: 2.743rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-H3i {
+  margin-right: 10.0422rem;
+  width: 50.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-H3i .figure-qL8 {
+  width: 45.8rem;
+  height: 48rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/figure-bg.png');
+  border-radius: 50rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-H3i .figure-qL8 .oschmannjpg-nWG {
+  width: 45.8422rem;
+  height: 48.0422rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-H3i .figure-grY {
+  width: 7.4rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 43.3rem;
+  overflow: hidden;
+  border-radius: 5rem;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-H3i .figure-grY .stefan-oschmanpng-d16 {
+  width: 7.3742rem;
+  height: 7.3742rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk {
+  margin: 1.146rem 0rem 1.154rem 0rem;
+  width: 74.9578rem;
+  height: calc(100% - 2.3rem);
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .div-5Nt {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .div-5Nt .frame-2578-qN4 {
+  margin-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .div-5Nt .frame-2578-qN4 .samantha-carter-o3z {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .div-5Nt .frame-2578-qN4 .former-merck-ceo-and-investor-at-yuri-XEt {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .div-5Nt .i-cant-recommend-the-psychology-consultation-services-enough-as-someone-who-has-struggled-with-anxiety-and-self-doubt-for-years-i-was-hesitant-to-try-therapy-again-but-from-the-very-first-session-my-consultant-made-me-feel-heard-and-understood-she-worked-with-me-to-identify-the-root-causes-of-my-anxiety-and-gave-me-concrete-tools-to-manage-it-3DE {
+  max-width: 74.9578rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .line-301-D1E {
+  margin-bottom: 3.9rem;
+  width: 73.9033rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .frame-2579-k1A {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .frame-2579-k1A .item-01-76c {
+  margin-right: 55.7578rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2580-9Jt .div-NhS .div-iFW .div-Ytk .frame-2579-k1A .frame-2540-2Da {
+  width: 15.2rem;
+  height: 7.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr {
+  width: 197.6147rem;
+  height: 56.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 359rem;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2607-riQ {
+  width: 32.7rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 88.1rem;
+  top: 0;
+  overflow: hidden;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc {
+  width: 159.3rem;
+  height: 32.9rem;
+  position: absolute;
+  left: 0;
+  top: 23.2rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2557-jGQ {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2557-jGQ .mask-group-ffr {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2557-jGQ .frame-2556-Cvg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2557-jGQ .frame-2556-Cvg .quality-theraphy-Acc {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2557-jGQ .frame-2556-Cvg .et-harum-quidem-rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore-cum-soluta-nobis-HBS {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2558-LfW {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2558-LfW .mask-group-Hqe {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2558-LfW .frame-2556-2YL {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2558-LfW .frame-2556-2YL .couple-therapy-b5e {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2558-LfW .frame-2556-2YL .on-the-other-hand-we-denounce-with-righteous-indignation-and-dislike-men-who-are-so-beguiled-ig4 {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2559-PGQ {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2559-PGQ .mask-group-LSY {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2559-PGQ .frame-2556-gWQ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2559-PGQ .frame-2556-gWQ .group-theraphy-SkU {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2560-zpc .frame-2559-PGQ .frame-2556-gWQ .these-cases-are-perfectly-simple-and-easy-to-distinguish-Ne8 {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2562-4mr {
+  width: 159.5147rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 14.6rem;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2562-4mr .were-the-leading-advisory-centre-for-you-zvQ {
+  margin-right: 67.2rem;
+  max-width: 77.1147rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .auto-group-g2be-vZr .frame-2562-4mr .frame-2540-u1n {
+  width: 15.2rem;
+  height: 7.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i {
+  width: 159.3rem;
+  height: 32.9rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 152.5rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2557-ZME {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2557-ZME .mask-group-uR6 {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2557-ZME .frame-2556-FUx {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2557-ZME .frame-2556-FUx .quality-theraphy-1DE {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2557-ZME .frame-2556-FUx .et-harum-quidem-rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore-cum-soluta-nobis-8Yk {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2558-bhE {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2558-bhE .mask-group-9ik {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2558-bhE .frame-2556-hVN {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2558-bhE .frame-2556-hVN .couple-therapy-TzL {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2558-bhE .frame-2556-hVN .on-the-other-hand-we-denounce-with-righteous-indignation-and-dislike-men-who-are-so-beguiled-ap4 {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2559-4jE {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 51.1rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2559-4jE .mask-group-R3z {
+  margin-bottom: 5rem;
+  width: 9rem;
+  height: 9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2559-4jE .frame-2556-AGU {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2559-4jE .frame-2556-AGU .group-theraphy-KfA {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  letter-spacing: 0.036rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2560-S1i .frame-2559-4jE .frame-2556-AGU .these-cases-are-perfectly-simple-and-easy-to-distinguish-FYp {
+  max-width: 45.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2562-jD6 {
+  width: 159.5147rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 133.6rem;
+  display: flex;
+  align-items: center;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2562-jD6 .were-the-leading-advisory-centre-for-you-eqr {
+  margin-right: 67.2rem;
+  max-width: 77.1147rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .auto-group-sncl-zXW .frame-2562-jD6 .frame-2540-9Xi {
+  width: 15.2rem;
+  height: 7.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk {
+  margin-bottom: 20rem;
+  width: 214.8125rem;
+  height: 105.8185rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .rectangle-7385-REL {
+  width: 192rem;
+  height: 55.158rem;
+  position: absolute;
+  left: 0;
+  top: 50.6604rem;
+  background-color: #eee5ff;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e {
+  width: 198.6125rem;
+  height: 90.8188rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .discover-the-power-of-psychology-with-our-case-studies-section-HnL {
+  margin-bottom: 7rem;
+  max-width: 92.7435rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe {
+  width: 100%;
+  height: 61.6188rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2541-MGQ {
+  margin-right: 8.2rem;
+  width: 15.2rem;
+  height: 7.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 {
+  margin-bottom: 0.0422rem;
+  height: calc(100% - 0.0422rem);
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2581-AzY {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2581-AzY .image-vD2 {
+  margin-bottom: 3rem;
+  width: 41.5531rem;
+  height: 51.9766rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2581-AzY .div-eui {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2581-AzY .div-eui .schizophrenia-d7S {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2581-AzY .div-eui .case-studies-LnY {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2582-TMN {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2582-TMN .image-RJC {
+  margin-bottom: 3rem;
+  width: 41.5531rem;
+  height: 51.9766rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2582-TMN .div-kbN {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2582-TMN .div-kbN .depressions-WqS {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2582-TMN .div-kbN .case-studies-eAx {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2583-9tQ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2583-9tQ .image-KH6 {
+  margin-bottom: 3rem;
+  width: 41.5531rem;
+  height: 51.9766rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2583-9tQ .div-Eur {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2583-9tQ .div-Eur .personal-meeting-c1J {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2583-9tQ .div-Eur .case-studies-vng {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2584-48C {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2584-48C .image-252 {
+  margin-bottom: 3rem;
+  width: 41.5531rem;
+  height: 51.9766rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2584-48C .div-xDa {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2584-48C .div-xDa .anxiety-disorder-vRJ {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .group-4676-gGk .frame-2587-Z5e .frame-2586-zwe .frame-2585-3Q8 .frame-2584-48C .div-xDa .case-studies-SeY {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG {
+  margin: 0rem 0rem 20.047rem 16.041rem;
+  width: 175.5732rem;
+  height: 91.867rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA {
+  width: 98.1063rem;
+  height: 91.1874rem;
+  position: absolute;
+  left: 0;
+  top: 0.3398rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2588-2Mr {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2588-2Mr .patient-are-happy-for-proper-mental-cure-support-BVe {
+  margin-bottom: 3rem;
+  max-width: 98.1063rem;
+  display: flex;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2588-2Mr .et-harum-quidem-rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore-cum-soluta-nobis-est-eligendi-optio-cumque-nihil-impedit-quo-minus-HHn {
+  max-width: 78.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp {
+  width: 94.9011rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt {
+  margin-bottom: 3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe {
+  box-sizing: border-box;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW {
+  margin: 0rem 0.005rem 1.5rem 0rem;
+  width: calc(100% - 0.0052rem);
+  height: 10.3391rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk {
+  margin-right: 3.2rem;
+  width: 45.8479rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk .rectangle-7386-fBr {
+  width: 45.8479rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk .arya-xRr {
+  width: 3.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk .frame-2589-TdW {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 13.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk .frame-2589-TdW .first-name-P1N {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4677-Wpk .frame-2589-TdW .item--7TA {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt {
+  width: 45.8479rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt .rectangle-7386-nJQ {
+  width: 45.8479rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt .demian-hgG {
+  width: 5.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt .frame-2589-D8p {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 13.3rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt .frame-2589-D8p .last-name-8ma {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2590-zbW .group-4680-EGt .frame-2589-D8p .item--sDN {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW {
+  margin-right: 0.0052rem;
+  width: calc(100% - 0.0052rem);
+  height: 10.3391rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x {
+  margin-right: 3.2rem;
+  width: 45.8479rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x .rectangle-7386-H2C {
+  width: 45.8479rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x .aryademianemail-bYg {
+  width: 14.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x .frame-2589-J5i {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 16.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x .frame-2589-J5i .email-address-RAL {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4677-L6x .frame-2589-J5i .item--XUG {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW {
+  width: 45.8479rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW .rectangle-7386-oAt {
+  width: 45.8479rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW .item-12-343-498-3984-vFW {
+  width: 13.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW .frame-2589-124 {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 16.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW .frame-2589-124 .phone-number-jCx {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .auto-group-6doa-eXe .frame-2591-PhW .group-4680-3hW .frame-2589-124 .item--4FE {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 10.3391rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 .rectangle-7386-vHS {
+  width: 94.9011rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 .street-sutomo-alexander-14-norwegia-Eov {
+  width: 29.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 .frame-2589-K4g {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 11rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 .frame-2589-K4g .address-EhS {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4678-yd6 .frame-2589-K4g .item--mBa {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a {
+  width: 100%;
+  height: 16.8827rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a .rectangle-7386-Eqr {
+  width: 94.9011rem;
+  height: 14.5437rem;
+  position: absolute;
+  left: 0;
+  top: 2.3391rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a .write-here-for-your-problem-m56 {
+  width: 20.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.3391rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.4499999881);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a .frame-2589-eua {
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  width: 14.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a .frame-2589-eua .consultation-aHS {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2592-JCt .group-4679-V7a .frame-2589-eua .item--uKi {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: #ea0000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2540-1de {
+  box-sizing: border-box;
+  padding: 2.4rem 3.317rem 2.488rem 3.4rem;
+  width: 21.5172rem;
+  height: 6.7875rem;
+  background-color: #b694ff;
+  border-radius: 5rem;
+}
+.home-nRS .frame-2595-ZUG .frame-2594-HfA .frame-2593-Xxp .frame-2540-1de .span-LA8 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.0299999449;
+  color: #000000;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .frame-2595-ZUG .group-4667-df2 {
+  width: 91.867rem;
+  height: 91.867rem;
+  position: absolute;
+  left: 83.7063rem;
+  top: 0;
+  background-color: #eee5ff;
+  border-radius: 45.9335rem;
+}
+.home-nRS .frame-2595-ZUG .group-4667-df2 .mask-group-yTz {
+  width: 91.867rem;
+  height: 91.867rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-nRS .footer-VSL {
+  box-sizing: border-box;
+  padding: 10rem 16.3rem 5rem 16.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz {
+  margin: 0rem 9.975rem 10.042rem 0rem;
+  width: calc(100% - 9.975rem);
+  height: 28.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .frame-2537-x52 {
+  margin: 0rem 35.5rem 23.5rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .frame-2537-x52 .subtract-Vak {
+  margin-right: 1rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .frame-2537-x52 .raft-qPi {
+  display: flex;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG {
+  box-sizing: border-box;
+  padding-right: 9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r {
+  margin-right: 9.1813rem;
+  width: 10.7rem;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .home-Qr8 {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .frame-2596-k9J {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .frame-2596-k9J .offering-hKS {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .frame-2596-k9J .benefits-2cc {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .frame-2596-k9J .testimonials-kYc {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2600-f7r .frame-2596-k9J .news-HYY {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC .science-yRN {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC .frame-2597-71n {
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC .frame-2597-71n .benefits-TbS {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC .frame-2597-71n .examples-ntc {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-zf9w-vAG .frame-2601-DSC .frame-2597-71n .scientists-8Sg {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ {
+  width: 17rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .platform-oYp {
+  margin-bottom: 2.9rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL .offering-soa {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL .services-products-bja {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL .key-facts-8Uc {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL .case-studies-4dA {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .frame-2602-FGQ .frame-2598-vtL .testimonials-bd6 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc {
+  box-sizing: border-box;
+  padding-left: 9.4641rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 {
+  margin-right: 9.4797rem;
+  width: 14.7rem;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .about-us-pkk {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp .mission-vision-unC {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp .company-values-qvk {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp .team-mpQ {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp .jobs-u9v {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2603-Gz8 .frame-2599-AJp .awards-ET6 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2604-xtt {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2604-xtt .resources-w6c {
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-RKz .div-yF2 .auto-group-oftq-ixc .frame-2604-xtt .press-kit-fHW {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  letter-spacing: -0.04rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU {
+  width: 100%;
+  height: 2.0563rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU .psychology-and-counseling-all-rights-reserved-with-love-by-elmous-XqW {
+  margin-right: 89.3313rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Questrial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU .ul-d7r {
+  box-sizing: border-box;
+  padding: 0rem 0.069rem 0rem 0.088rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU .ul-d7r .svg-A7n {
+  margin: 0rem 3.088rem 0.055rem 0rem;
+  width: 1.8799rem;
+  height: 1.88rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU .ul-d7r .svg-t3n {
+  margin: 0rem 3.069rem 0rem 0rem;
+  width: 2.0563rem;
+  height: 1.5724rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-nRS .footer-VSL .div-aQU .ul-d7r .svg-pCL {
+  width: 1.9192rem;
+  height: 2.0563rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
